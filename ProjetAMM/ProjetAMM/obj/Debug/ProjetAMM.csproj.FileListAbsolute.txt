@@ -1,0 +1,10 @@
+C:\Users\pault\Desktop\cours\PPE\Projet gesAMM\Projet\ProjetAMM\ProjetAMM\bin\Debug\ProjetAMM.exe.config
+C:\Users\pault\Desktop\cours\PPE\Projet gesAMM\Projet\ProjetAMM\ProjetAMM\bin\Debug\ProjetAMM.exe
+C:\Users\pault\Desktop\cours\PPE\Projet gesAMM\Projet\ProjetAMM\ProjetAMM\bin\Debug\ProjetAMM.pdb
+C:\Users\pault\Desktop\cours\PPE\Projet gesAMM\Projet\ProjetAMM\ProjetAMM\obj\Debug\ProjetAMM.csprojAssemblyReference.cache
+C:\Users\pault\Desktop\cours\PPE\Projet gesAMM\Projet\ProjetAMM\ProjetAMM\obj\Debug\ProjetAMM.frm_accueil.resources
+C:\Users\pault\Desktop\cours\PPE\Projet gesAMM\Projet\ProjetAMM\ProjetAMM\obj\Debug\ProjetAMM.Properties.Resources.resources
+C:\Users\pault\Desktop\cours\PPE\Projet gesAMM\Projet\ProjetAMM\ProjetAMM\obj\Debug\ProjetAMM.csproj.GenerateResource.cache
+C:\Users\pault\Desktop\cours\PPE\Projet gesAMM\Projet\ProjetAMM\ProjetAMM\obj\Debug\ProjetAMM.csproj.CoreCompileInputs.cache
+C:\Users\pault\Desktop\cours\PPE\Projet gesAMM\Projet\ProjetAMM\ProjetAMM\obj\Debug\ProjetAMM.exe
+C:\Users\pault\Desktop\cours\PPE\Projet gesAMM\Projet\ProjetAMM\ProjetAMM\obj\Debug\ProjetAMM.pdb
