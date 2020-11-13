@@ -46,6 +46,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="BDD.cs" />
     <Compile Include="Decision.cs" />
     <Compile Include="Etape.cs" />
     <Compile Include="Famille.cs" />
