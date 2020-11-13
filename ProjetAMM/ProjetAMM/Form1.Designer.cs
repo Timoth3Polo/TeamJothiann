@@ -40,6 +40,7 @@
             this.Name = "frm_accueil";
             this.Text = "AMM Application de gestion et de suivi des Autorisations de Mise sur le Marché de" +
     "s médicaments";
+            this.Load += new System.EventHandler(this.frm_accueil_Load);
             this.ResumeLayout(false);
 
         }

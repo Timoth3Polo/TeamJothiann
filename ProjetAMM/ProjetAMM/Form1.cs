@@ -16,5 +16,20 @@ namespace ProjetAMM
         {
             InitializeComponent();
         }
+
+        private void frm_accueil_Load(object sender, EventArgs e)
+        {
+            //Initialisation du dictionnaire les familles
+            Globale.lesFamilles = new Dictionary<string, Famille>();
+
+            //Initialisation du dictionnaire les médicaments
+            Globale.lesMedicaments = new Dictionary<string, Medicament>();
+
+            //Initialisation de la liste des étapes
+            Globale.lesEtapes = new List<Etape>();
+
+            //Initialisation de la liste des décisions
+            Globale.lesDecisions = new List<Decision>();
+        }
     }
 }
