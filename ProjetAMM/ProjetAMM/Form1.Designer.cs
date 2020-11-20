@@ -35,8 +35,7 @@
             this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.BackColor = System.Drawing.SystemColors.ActiveCaption;
-            this.ClientSize = new System.Drawing.Size(825, 450);
-            this.IsMdiContainer = true;
+            this.ClientSize = new System.Drawing.Size(514, 223);
             this.Name = "frm_accueil";
             this.Text = "AMM Application de gestion et de suivi des Autorisations de Mise sur le Marché de" +
     "s médicaments";

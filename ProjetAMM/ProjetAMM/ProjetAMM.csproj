@@ -56,6 +56,12 @@
     <Compile Include="Form1.Designer.cs">
       <DependentUpon>Form1.cs</DependentUpon>
     </Compile>
+    <Compile Include="frm_menu.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frm_menu.Designer.cs">
+      <DependentUpon>frm_menu.cs</DependentUpon>
+    </Compile>
     <Compile Include="Globale.cs" />
     <Compile Include="Medicament.cs" />
     <Compile Include="Program.cs" />
@@ -63,6 +69,9 @@
     <Compile Include="WorkFlow.cs" />
     <EmbeddedResource Include="Form1.resx">
       <DependentUpon>Form1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frm_menu.resx">
+      <DependentUpon>frm_menu.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="Properties\Resources.resx">
       <Generator>ResXFileCodeGenerator</Generator>
